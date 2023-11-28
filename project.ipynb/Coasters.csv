@@ -1,33 +1,24 @@
-Roller Coaster,Type,Speed (km/h),Height (m),Thrill Rating
-Hyperion,Steel,142,77,9.2
+Roller Coaster,Type,Speed (kph),Height (m),Thrill Rating
 Zadra,Hybrid,121,63,8.7
 Dragon Khan,Steel,110,45,8.5
 Furious Baco,Steel,134,35,8.8
-Shambhala,Steel,134,76,9.0
-Red Force,Steel,180,112,9.5
 Maverick,Steel,115,32,8.3
-Millennium Force,Steel,150,94,9.7
 El Toro,Wooden,113,55,8.6
 Twisted Colossus,Hybrid,104,39,8.4
 Taron,Steel,117,30,8.9
 Steel Vengeance,Hybrid,120,62,9.1
 Montu,Steel,104,43,8.2
 Storm Chaser,Steel,97,29,8.0
-Kingda Ka,Steel,206,139,9.8
-Fury 325,Steel,153,99,9.6
 Goliath,Steel,116,48,8.7
-Leviathan,Steel,148,93,9.4
 Voyage,Wooden,107,46,8.5
 Cannibal,Steel,112,54,8.6
 Wicked Twister,Steel,105,53,8.1
-Steel Dragon 2000,Steel,153,97,9.3
 Wildfire,Hybrid,116,57,8.9
 X2,Steel,129,52,8.8
 Intimidator 305,Steel,140,93,9.4
 GateKeeper,Steel,67,53,7.8
 Mako,Steel,118,61,8.9
 Oblivion,Steel,109,20,8.0
-Top Thrill Dragster,Steel,190,128,9.6
 Helix,Steel,100,41,8.4
 Stealth,Steel,128,62,8.7
 Kumba,Steel,97,42,8.1
@@ -49,7 +40,6 @@ Goliath,Wooden,112,37,8.5
 Tatsu,Steel,105,55,8.7
 Wodan Timbur Coaster,Wooden,92,40,8.4
 Silver Star,Steel,130,73,9.0
-Superman: Escape from Krypton,Steel,161,126,9.5
 Gravity Max,Steel,97,37,8.3
 Riddler's Revenge,Steel,116,47,8.8
 Flying Dinosaur,Steel,100,37,8.7
@@ -91,7 +81,6 @@ Velocicoaster,Steel,112,47,9.0
 Time Machine,Steel,70,30,7.7
 Storm Runner,Steel,97,46,8.6
 Wild Eagle,Steel,98,51,8.2
-Kingda Ka,Steel,206,139,9.8
 Big Dipper,Wooden,57,22,7.5
 Tornado,Steel,77,25,8.0
 Kraken,Steel,105,43,8.5
@@ -100,3 +89,13 @@ Joker,Steel,64,30,7.9
 Blue Fire,Steel,100,38,8.3
 Cu Chulainn,Wooden,90,30,8.2
 Wacky Worm,Steel,40,10,2.0
+ThunderBolt,Hybrid,105,38,8.0
+LightningRush,Steel,120,50,8.5
+TwistedTwist,Wooden,95,30,7.8
+SkySurge,Steel,115,55,8.3
+PhantomTwist,Steel,100,42,8.0
+StormRider,Hybrid,98,34,8.1
+ThunderStrike,Steel,125,60,8.7
+WildWhirl,Wooden,92,28,7.9
+CometChase,Steel,112,48,8.4
+VortexVoyage,Steel,118,52  
