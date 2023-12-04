@@ -35,10 +35,19 @@ Here, I created a synthesized dataset to align with real-world roller coaster ch
 Here, I carried out exploratory analysis to understand the distribution, types and relationships of my variables. Below are the histograms from one random simulation: ![Histograms](hists.png)
 
 Below are likewise but for the Q-Q plots:  ![Q-Qplot](QQ.png)
+                                           ![Q-Qplot](QQ2.png)
+                                           ![Q-Qplot](QQ3.png)
 
 Variable Relationship Visualisation
 
-Visualized relationships between roller coaster variables using scatter plots, box plots, and regression analysis.
+Here, I Visualized relationships between roller coaster variables using correlation heatmapping, scatter plots and  box plots. Below are the results:
+
+![heatmap](heatmap.png)
+![scatter](scatter.png)
+![scatter](scatter2.png)
+![scatter](scatter3.png)
+![boxplot](boxplot.png)
+
 
 Statistical Analysis
 
