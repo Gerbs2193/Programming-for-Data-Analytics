@@ -1,7 +1,7 @@
 
 
 # Overview of project 1 for Programming
-Download Zadra Image](Zadra.png)
+[Download Zadra Image](Zadra.png)
 
 This project analyses synthesized roller coaster data based off the parameters of real roller coaster data. Variables of such were: speed(kph), height(m), thrill rating and type(steel,hybrid and wooden). An extensive Jupyter notebook was completed.
 
