@@ -1,9 +1,9 @@
 
 
-# Overview of project 1 for Programming
+# Overview of project 1 for Programming in Data Analytics
 ![Zadra](Zadra.png)
 
-This project analyses synthesized roller coaster data based off the parameters of real roller coaster data. Variables of such were: speed(kph), height(m), thrill rating and type(steel,hybrid and wooden). An extensive Jupyter notebook was completed.
+This project analyses synthesized roller coaster data based off the parameters of real roller coaster data. Variables of such were: speed(kph), height(m), thrill rating and type(steel,hybrid and wooden). An extensive Jupyter notebook was completed here: [Link to Notebook](project.ipynb)
 
 # Table of Contents
 
