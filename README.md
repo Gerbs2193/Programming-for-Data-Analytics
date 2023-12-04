@@ -2,6 +2,8 @@
 
 # Overview of project 1 for Programming
 
+![Zadra Image](zadra.jpg)
+
 This project analyses synthesized roller coaster data based off the parameters of real roller coaster data. Variables of such were: speed(kph), height(m), thrill rating and type(steel,hybrid and wooden). An extensive Jupyter notebook was completed.
 
 # Table of Contents
@@ -30,7 +32,9 @@ Here, I created a synthesized dataset to align with real-world roller coaster ch
 
 ## Exploratory Data Analysis
 
-Here, I carried out exploratory analysis to understand the distribution, types and relationships of my variables. Below are the histograms from one random simulation:     ![Histograms](hists.png)
+Here, I carried out exploratory analysis to understand the distribution, types and relationships of my variables. Below are the histograms from one random simulation: ![Histograms](hists.png)
+
+Below are likewise but for the Q-Q plots:  ![Q-Q Plot for Height](Q-Q Height.png)
 
 Variable Relationship Visualisation
 
