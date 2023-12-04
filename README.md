@@ -28,11 +28,11 @@ Start by investigating real-world roller coaster data. You do this as you must f
 
 ## Data Collection
 
-Gathered real-world roller coaster data, including key variables like speed, height, thrill rating and type from https://rcdb.com/os.htm?ot=2. Real data is here: [Download Real Data](realcoasterdata.csv)
+Gathered real-world roller coaster data, including key variables like speed, height, thrill rating and type from https://rcdb.com/os.htm?ot=2. Real data can be found by following https://github.com/Gerbs2193/ Programming-for-Data-Analytics, going to project.ipynb and clicking realcoasterdata.csv
 
 ## Data Synthesis
 
-Here, I created a synthesised dataset to align with real-world roller coaster characteristics. The data can be found here: [Download synthesized data](coasterss.csv). 
+Here, I created a synthesised dataset to align with real-world roller coaster characteristics. The data can be found in by following the above Github link, under project.ipynb and clicking coasterss.csv
 
 ## Exploratory Data Analysis
 
