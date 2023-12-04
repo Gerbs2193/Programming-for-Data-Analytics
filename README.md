@@ -2,7 +2,7 @@
 
 # Overview of project 1 for Programming
 
-![Zadra Image](zadra.jpg)
+![Zadra](Zadra.jpg)
 
 This project analyses synthesized roller coaster data based off the parameters of real roller coaster data. Variables of such were: speed(kph), height(m), thrill rating and type(steel,hybrid and wooden). An extensive Jupyter notebook was completed.
 
@@ -38,7 +38,7 @@ Below are likewise but for the Q-Q plots:  ![Q-Qplot](QQ.png)
                                            ![Q-Qplot](QQ2.png)
                                            ![Q-Qplot](QQ3.png)
 
-Variable Relationship Visualisation
+## Variable Relationship Visualisation
 
 Here, I Visualized relationships between roller coaster variables using correlation heatmapping, scatter plots and  box plots. Below are the results:
 
@@ -49,11 +49,13 @@ Here, I Visualized relationships between roller coaster variables using correlat
 ![boxplot](boxplot.png)
 
 
-Statistical Analysis
+## Statistical Analysis
+Used Linear Regression - as explained in the notebook - to gleam relationship power between the variables. Below are the visual results; 
+![Linearregression](LinearRegression.png)
 
-Applied statistical techniques, including linear regression, to quantify relationships between variables.
 
-Real vs Synthesised
+
+## Real vs Synthesised Data
 
 Compared and contrasted findings from the real-world dataset with those from the synthesized dataset.
 
