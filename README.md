@@ -1,7 +1,7 @@
 
 
 # Overview of project 1 for Programming
-![Zadra](Zadra.jpg)
+![Zadra](Zadra.png)
 
 This project analyses synthesized roller coaster data based off the parameters of real roller coaster data. Variables of such were: speed(kph), height(m), thrill rating and type(steel,hybrid and wooden). An extensive Jupyter notebook was completed.
 
@@ -53,7 +53,7 @@ Here, I Visualized relationships between roller coaster variables using correlat
 ![scatter](scatter2.png)
 ![scatter](scatter3.png)
 ![boxplot](boxplot.png)
-![zadra](zadra.jpg)
+
 
 
 ## Statistical Analysis
