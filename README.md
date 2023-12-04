@@ -1,9 +1,7 @@
-
-
-# Overview of project 1 for Programming in Data Analytics
+# Overview of project 1 for Programming in Data Analytics by Gerard Ball
 ![Zadra](Zadra.png)
 
-This project analyses synthesized roller coaster data based off the parameters of real roller coaster data. Variables of such were: speed(kph), height(m), thrill rating and type(steel,hybrid and wooden). An extensive Jupyter notebook was completed here: [Link to Notebook](project.ipynb)
+This project analyses synthesised roller coaster data based off the parameters of real roller coaster data. Variables of such were: speed(kph), height(m), thrill rating and type(steel,hybrid and wooden). An extensive Jupyter notebook was completed here: [Link to Notebook](project.ipynb)
 
 # Table of Contents
 
@@ -26,7 +24,7 @@ This project analyses synthesized roller coaster data based off the parameters o
 
 
 ## Introduction
-Start by investigating real-world roller coaster data. You do this as you must first understand what variables exist, how they may compare, and how you can go about synthesizing them. For example; you can use [rcdb](https://rcdb.com/os.htm?ot=2) as I did - to access real data and stats. To execute my code, you can access this project via the included github link: https://github.com/Gerbs2193/Programming-for-Data-Analytics or by git cloning to your local repo: git clone https://github.com/Gerbs2193/Programming-for-Data-Analytics. Open the jupyter notebook from there on. Data files pertinent are as follows; 'realcoasterdata.csv as wel as coasterss.csv (synthesized data). 
+Start by investigating real-world roller coaster data. You do this as you must first understand what variables exist, how they may compare and how you can go about synthesising them. For example; you can use [rcdb](https://rcdb.com/os.htm?ot=2) as I did - to access real data and stats. To execute my code, you can access this project via the included github link: https://github.com/Gerbs2193/Programming-for-Data-Analytics or by git cloning to your local repo: git clone https://github.com/Gerbs2193/Programming-for-Data-Analytics. Open the jupyter notebook from there on. Data files pertinent are as follows; 'realcoasterdata.csv as well as coasterss.csv (synthesized data). The added Github link also comprises the full list of png files used for this project
 
 ## Data Collection
 
@@ -34,11 +32,11 @@ Gathered real-world roller coaster data, including key variables like speed, hei
 
 ## Data Synthesis
 
-Here, I created a synthesized dataset to align with real-world roller coaster characteristics. The data can be found here: [Download synthesized data](coasterss.csv). 
+Here, I created a synthesised dataset to align with real-world roller coaster characteristics. The data can be found here: [Download synthesized data](coasterss.csv). 
 
 ## Exploratory Data Analysis
 
-Here, I carried out exploratory analysis to understand the distribution, types and relationships of my variables. Below are the histograms from one random simulation: ![Histograms](hists.png)
+Here, I carried out exploratory analysis to understand the distributions, types and relationships of my variables. Below are the histograms from one random simulation: ![Histograms](hists.png)
 
 Below are likewise but for the Q-Q plots:  ![Q-Qplot](QQ.png)
                                            ![Q-Qplot](QQ2.png)
@@ -70,65 +68,4 @@ Last bit of analysis was comparing both real and synthesized to see how closely 
 
 
 ## Insights, Results and conclusions
-Steel coaster type remained the fastest, tallest and most thrilling of the three types. Speed, Height and Thrill were found to be of normal distribution and of continuous, numerical variables. Type was defined as a categorical variable. Linear Regression showed us that there exists a noticeable relationship between height and speed in relation to an elevated thrill rating result. These results - for the most part - aligned closely with the real results - as they should given the stipulations set during the synthesized code phase which set out mean values for the random results so as to align with the real data results. All in all, the results were mostly in line with expectations, even if thrill rating was off due to the subjectivity of such  a thing. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
-
-
-
-
-
+Steel coaster type remained the fastest, tallest and most thrilling of the three types. Speed, Height and Thrill were found to be of normal distribution and of continuous, numerical variables. Type was defined as a categorical variable. Linear Regression showed us that there exists a noticeable relationship between height and speed in relation to an elevated thrill rating result. These results - for the most part - aligned closely with the real results - as they should given the stipulations set during the synthesized code phase which set out mean values for the random results so as to align with the real data results. All in all, the results were mostly in line with expectations, even if thrill rating was off due to the subjectivity of such  a thing.
