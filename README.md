@@ -34,7 +34,7 @@ Here, I created a synthesized dataset to align with real-world roller coaster ch
 
 Here, I carried out exploratory analysis to understand the distribution, types and relationships of my variables. Below are the histograms from one random simulation: ![Histograms](hists.png)
 
-Below are likewise but for the Q-Q plots:  ![Q-Q Plot for Height](Q-Q Height.png)
+Below are likewise but for the Q-Q plots:  ![Q-Qplot](QQ.png)
 
 Variable Relationship Visualisation
 
