@@ -1,22 +1,21 @@
 
 
 # Overview of project 1 for Programming
-
 ![Zadra](Zadra.jpg)
 
 This project analyses synthesized roller coaster data based off the parameters of real roller coaster data. Variables of such were: speed(kph), height(m), thrill rating and type(steel,hybrid and wooden). An extensive Jupyter notebook was completed.
 
 # Table of Contents
 
-# Introduction
-# Data Collection
-# Data Synthesis
-# Exploratory Data Analysis
-# Variable Relationship Visualization
-# Statistical Analysis
-# Real vs Synthesized
-# Interpretations and Conclusions
-# Introduction
+ Introduction
+ Data Collection
+ Data Synthesis
+ Exploratory Data Analysis
+ Variable Relationship Visualization
+ Statistical Analysis
+ Real vs Synthesized
+ Interpretations and Conclusions
+ Introduction
 
 
 ## Introduction
@@ -38,7 +37,7 @@ Below are likewise but for the Q-Q plots:  ![Q-Qplot](QQ.png)
                                            ![Q-Qplot](QQ2.png)
                                            ![Q-Qplot](QQ3.png)
 
-## Variable Relationship Visualisation
+## Variable Relationship Visualization
 
 Here, I Visualized relationships between roller coaster variables using correlation heatmapping, scatter plots and  box plots. Below are the results:
 
@@ -55,13 +54,14 @@ Used Linear Regression - as explained in the notebook - to gleam relationship po
 
 
 
-## Real vs Synthesised Data
+## Real vs Synthesized Data
+Last bit of analysis was comparing both real and synthesized to see how closely or otherwise they align. To do this, Box plots and bar plots were performed of which below show the findings of one simulation. Detailed summation - as always - in contained within the notebook:
 
-Compared and contrasted findings from the real-world dataset with those from the synthesized dataset.
+![boxplot](boxplotrealvsyn.png)
+![barplot](barplotrealvsyn.png)
 
-Interpretations and Conclusions
 
-Derived insights, discussed results, and presented conclusions based on the analysis.
+## Insights, Results and conclusions
 
 
 
