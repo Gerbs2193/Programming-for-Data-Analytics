@@ -8,12 +8,19 @@ This project analyses synthesized roller coaster data based off the parameters o
 # Table of Contents
 
  Introduction
+
  Data Collection
+
  Data Synthesis
+
  Exploratory Data Analysis
+
  Variable Relationship Visualization
+
  Statistical Analysis
+
  Real vs Synthesized
+
  Interpretations and Conclusions
  Introduction
 
@@ -46,6 +53,7 @@ Here, I Visualized relationships between roller coaster variables using correlat
 ![scatter](scatter2.png)
 ![scatter](scatter3.png)
 ![boxplot](boxplot.png)
+![zadra](zadra.jpg)
 
 
 ## Statistical Analysis
@@ -62,6 +70,7 @@ Last bit of analysis was comparing both real and synthesized to see how closely 
 
 
 ## Insights, Results and conclusions
+Steel coaster type remained the fastest, tallest and most thrilling of the three types. Speed, Height and Thrill were found to be of normal distribution and of continuous, numerical variables. Type was defined as a categorical variable. Linear Regression showed us that there exists a noticeable relationship between height and speed in relation to an elevated thrill rating result. These results - for the most part - aligned closely with the real results - as they should given the stipulations set during the synthesized code phase which set out mean values for the random results so as to align with the real data results. All in all, the results were mostly in line with expectations, even if thrill rating was off due to the subjectivity of such  a thing. 
 
 
 
@@ -78,45 +87,46 @@ Last bit of analysis was comparing both real and synthesized to see how closely 
 
 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- ## Conclusion
 
-dhdhwydwhdyhd
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
 
 
 
